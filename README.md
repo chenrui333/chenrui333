@@ -1,18 +1,12 @@
 ### Hi there 👋
+---
 
-[![Rui's github stats](https://github-readme-stats.vercel.app/api?username=chenrui333&count_private=true&show_icons=true)](https://github.com/chenrui333/github-readme-stats)
+[![Twitter Badge](https://img.shields.io/badge/-@chenrui-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chenrui)](https://twitter.com/chenrui)
+[![Linkedin Badge](https://img.shields.io/badge/-chenrui333-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chenrui333/)](https://www.linkedin.com/in/chenrui333/)
+[![Gmail Badge](https://img.shields.io/badge/chenrui333@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chenrui333@gmail.com)](mailto:chenrui333@gmail.com)
 
-<!--
-**chenrui333/chenrui333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, this is Rui. I am currently working as Staff Software Engineer at Meetup. 
+And I am also helping out as maintainer for [@Homebrew](https://github.com/Homebrew), [Atlantis](https://github.com/runatlantis/atlantis/), and [tflint](https://github.com/terraform-linters/tflint) projects. 
+As OSS project lover, I also do various contributions to many other terraform/k8s/bazel projects as well.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Happy to connect with you and chat about anything I know.
