@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/chenrui333@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chenrui333@gmail.com)](mailto:chenrui333@gmail.com)
 
 Hi, this is Rui. I am currently working as Staff Software Engineer at [Meetup](https://www.meetup.com/). 
-And I am also helping out as maintainer for [Homebrew](https://github.com/Homebrew), [Atlantis](https://github.com/runatlantis/atlantis/), and [tflint](https://github.com/terraform-linters/tflint), [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) projects. 
+And I am also helping out as maintainer for [Homebrew](https://github.com/Homebrew), [Atlantis](https://github.com/runatlantis/atlantis/), [tflint](https://github.com/terraform-linters/tflint), and [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) projects. 
 As OSS project lover, I also do various contributions to many other Terraform/k8s/Bazel projects as well.
 
 Happy to connect with you and chat about anything I know.
