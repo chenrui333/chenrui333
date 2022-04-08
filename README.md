@@ -6,7 +6,7 @@
 [![StackOverflow Badge](https://img.shields.io/badge/-chenrui-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/791609/chenrui)](https://stackoverflow.com/users/791609/chenrui)
 [![Gmail Badge](https://img.shields.io/badge/chenrui333@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chenrui333@gmail.com)](mailto:chenrui333@gmail.com)
 
-Hi, this is Rui. I am currently working as Staff Software Engineer at [Meetup](https://www.meetup.com/). 
+Hi, this is Rui. I am currently working as Senior Staff Software Engineer at [Meetup](https://www.meetup.com/). 
 And I am also helping out as maintainer for [Homebrew](https://github.com/Homebrew), [Atlantis](https://github.com/runatlantis/atlantis/), [tflint](https://github.com/terraform-linters/tflint), and [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) projects. 
 As OSS project lover, I also do various contributions to many other Terraform/k8s/Bazel projects as well.
 
